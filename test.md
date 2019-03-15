@@ -1,4 +1,3 @@
-#Test
-This a test for .md documents
-represents line feed
-<br> \`a` is code mode
+# Homework-for-Data-Analysis-of-Econometrics
+This is a repository for the homework of Data Analysis of Econometrics<br>
+hello world
